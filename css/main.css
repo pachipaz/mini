@@ -1,0 +1,133 @@
+.fondo {
+	height: 500px;
+	background-image: url("../img/sea.jpg");
+	max-width: 100%;
+	background-size: cover;
+	
+}
+li {
+	list-style: none; 
+	display: inline-block;
+	padding-right: 30px;
+	margin-top: 14px;
+}
+.boton {
+	background-color:#0f798b;
+	width:115px;
+	height: 40px;
+	border-radius: 5px;
+	border-color:#0f798b;
+	color: white;
+	box-shadow: none;
+	margin-top: 44px;
+}
+ul{
+	width: 298px;
+	height: 50px;
+	background-color: #0f798b;
+    margin-left: 812px;
+    border-radius: 5px;
+    margin-top: -38px;
+
+
+}
+a { 
+	margin-top: 10px;
+}
+.sailor {
+	margin-top: -134px;
+}
+.fondocentro{
+	width: 450px;
+	height: 150px;
+	background-color: black;
+	margin-left: 350px;
+	margin-top: 93px;
+	border-radius: 8px;
+}
+.mar {
+	margin-top: 35px;
+}
+
+/*FOTOGRAFIAS*/
+.fotografias {
+	height: 1177px;
+	background-color: #0f798b;
+}
+.base {
+	height:526px;
+    width: 40%;
+    background-color: #FFF;
+    padding: 5%;
+    margin:5%;
+}
+.base2{
+	height:526px;
+    width: 40%;
+    background-color: #FFF;
+    padding: 5%;
+    margin:5%;
+	margin-top: -2%;}
+.foto1 {
+	background-image: url("../img/ancla.jpg");
+	height: 300px;
+	width: 300px;
+	background-size: cover;
+	margin-top: 20px;
+    margin-left: 40px;
+    display: inline-block;
+}
+.ancla {
+	margin-top:19px;
+	font-size: 20px;
+}
+.textoancla {
+	margin-top: -9px;
+	font-size: 13px;
+}
+.lee {
+	width: 92px;
+	height: 27px;
+	background-color: #0f798b;
+	border-radius: 5px;
+	color: white;
+	margin-left: 137px;
+    margin-top: 9px;
+    border-color:#0f798b;
+}
+
+.foto2 {
+	background-image: url("../img/barco.jpg");
+	height: 300px;
+	width: 300px;
+	background-size: cover;
+	margin-top: 20px;
+    margin-left: 40px;
+    display: inline-block;
+}
+.foto3 {
+	background-image: url("../img/sailors.jpg");
+	height: 300px;
+	width: 300px;
+	background-size: cover;
+	margin-top: 20px;
+    margin-left: 40px;
+    display: inline-block;
+}
+.foto4{
+	background-image: url("../img/kraken.jpg");
+	height: 300px;
+	width: 300px;
+	background-size: cover;
+	margin-top: 20px;
+    margin-left: 40px;
+    display: inline-block;
+}
+/*FOOTER*/
+.fondofinal {
+	background-color: white;
+	width:100%;
+	padding: 1%;
+}
+
+
